@@ -1,0 +1,12 @@
+/* myComponent.css */
+.error-message {
+    color: red;
+    font-weight: bold;
+  }
+/* myComponent.css */
+.slds-spinner_container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
